@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-<br>🌱 I’m currently learning web devlopment <br><br>
+<br>🌱 I’m currently learning web devlopment <br>
 
 
 ## 🌐 Socials:
